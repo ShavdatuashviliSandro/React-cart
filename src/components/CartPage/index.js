@@ -1,7 +1,6 @@
 import {useEffect, useState, useMemo} from "react";
 import "./cartPage.css";
 import CartRow from "../CartRow";
-
 import {useContext} from "react";
 
 import CartContext from "../../contexts/cartContext";
